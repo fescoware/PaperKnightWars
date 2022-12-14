@@ -32,12 +32,17 @@ Respond to your comments and questions and provide player support
 
 ###### SECURITY
 
-I value your trust in providing us your Personal Information, thus we are striving to use commercially acceptable means of protecting it. But remember that no method of transmission over the internet, or method of electronic storage is 100% secure and reliable, and I cannot guarantee its absolute security.
+I value your trust in providing us your Personal Information, thus we are striving to use commercially acceptable means of protecting it. 
+But remember that no method of transmission over the internet, or method of electronic storage is 100% secure and reliable, 
+and I cannot guarantee its absolute security.
 
 
 ###### AGE LIMITS
 
-We do not knowingly collect or solicit personal data about or direct or target interest based advertising to anyone under the age of 13 or knowingly allow such persons to use our Services. No one under the age of 13 may provide any personal data. If we learn that we have collected personal data about a child under age 13, we will delete that data as quickly as possible. If you believe that we might have any data from or about a child under the age of 13, please contact us.
+We do not knowingly collect or solicit personal data about or direct or target interest based advertising to anyone under the age of 13 or 
+knowingly allow such persons to use our Services. No one under the age of 13 may provide any personal data. 
+If we learn that we have collected personal data about a child under age 13, we will delete that data as quickly as possible. 
+If you believe that we might have any data from or about a child under the age of 13, please contact us.
 
 
 ###### CONTACT US
