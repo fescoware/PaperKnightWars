@@ -33,22 +33,23 @@ Respond to your comments and questions and provide player support
 
 ###### SECURITY
 
-I value your trust in providing us your Personal Information, thus we are striving to use commercially acceptable means of protecting it. 
-But remember that no method of transmission over the internet, or method of electronic storage is 100% secure and reliable, 
-and I cannot guarantee its absolute security.
+I value your trust in providing us your Personal Information, thus we are striving to use commercially acceptable means of protecting it.   
+But remember that no method of transmission over the internet, or method of electronic storage is 100% secure and reliable,   
+and I cannot guarantee its absolute security.  
 
 
 ###### AGE LIMITS
 
-We do not knowingly collect or solicit personal data about or direct or target interest based advertising to anyone under the age of 13 or 
-knowingly allow such persons to use our Services. No one under the age of 13 may provide any personal data. 
-If we learn that we have collected personal data about a child under age 13, we will delete that data as quickly as possible. 
-If you believe that we might have any data from or about a child under the age of 13, please contact us.
+We do not knowingly collect or solicit personal data about or direct or target interest based advertising to anyone under the age of 13 or   
+knowingly allow such persons to use our Services. No one under the age of 13 may provide any personal data.   
+If we learn that we have collected personal data about a child under age 13, we will delete that data as quickly as possible.   
+If you believe that we might have any data from or about a child under the age of 13, please contact us.  
 
 
 ###### CONTACT US
 
-If you have questions about data protection, or if you have any requests for resolving issues with your personal data, we encourage you to primarily contact us through the game so we can reply to you more quickly.
+If you have questions about data protection, or if you have any requests for resolving issues with your personal data, we encourage you to   
+primarily contact us through the game so we can reply to you more quickly.  
 Email: fescoware@gmail.com
 
 
@@ -57,15 +58,18 @@ Email: fescoware@gmail.com
 ## TERMS OF SERVICE
 
 
-This End-User License Agreement is a legal agreement between you and FesCoWare.
-Before accessing the game service, you must agree to these Terms of Service and the Privacy Policy. You may also be required to register an account on the Service (an "Account"). By registering for an Account or otherwise using the Service, you represent that you are age 13 or older. If you are between the ages of 13 and 17, you represent that your legal guardian has reviewed and agreed to these Terms. 
+This End-User License Agreement is a legal agreement between you and FesCoWare.  
+Before accessing the game service, you must agree to these Terms of Service and the Privacy Policy. You may also be required to register   
+an account on the Service (an "Account"). By registering for an Account or otherwise using the Service, you represent that you are age 13 or older.    
+If you are between the ages of 13 and 17, you represent that your legal guardian has reviewed and agreed to these Terms. 
 
-BY INSTALLING, USING OR OTHERWISE ACCESSING THE SERVICE, YOU AGREE TO THESE TERMS OF SERVICE. IF YOU DO NOT AGREE TO THESE TERMS OF SERVICE, PLEASE DO NOT INSTALL, USE OR OTHERWISE ACCESS THE SERVICE. USE OF THE SERVICE IS VOID WHERE PROHIBITED.
+BY INSTALLING, USING OR OTHERWISE ACCESSING THE SERVICE, YOU AGREE TO THESE TERMS OF SERVICE. IF YOU DO NOT AGREE TO THESE TERMS OF SERVICE,   
+PLEASE DO NOT INSTALL, USE OR OTHERWISE ACCESS THE SERVICE. USE OF THE SERVICE IS VOID WHERE PROHIBITED.  
 
 
 ###### ACCOUNT
 
-An account is unique as well as important to every user. 
+An account is unique as well as important to every user.   
 You shall neither transfer or otherwise make available your Account information to any third parties, nor use other user(s)’ Account(s) at any time. 
 If you sell your Account or other related information, FesCoWare reserves the right to take action, including terminating your Account immediately without any refund.
 
