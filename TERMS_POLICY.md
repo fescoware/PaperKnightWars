@@ -85,9 +85,9 @@ You are permitted to play the Paper Knight Wars game (mobile or tablet) under yo
 
 ###### LICENSE LIMITATIONS
 
-(i) Edit, alter, modify, adapt, translate or otherwise change the whole or any part of the Software nor permit the whole or any part of the Software to be combined with or become incorporated in any other software, nor decompile, disassemble or reverse engineer the Software or attempt to do any such things  
-(ii) Reproduce, copy, distribute, resell or otherwise use the Software for any commercial purpose  
-Allow any third party to use the Software on behalf of or for the benefit of any third party
+(i) Edit, alter, modify, adapt, translate or otherwise change the whole or any part of the Software nor permit the whole or any part of the Software to be combined with or become incorporated in any other software, nor decompile, disassemble or reverse engineer the Software or attempt to do any such thing  
+(ii) Reproduce, copy, distribute, resell or otherwise use the Software for any commercial purpose
+Allow any third party to use the Software on behalf of or for the benefit of any third party  
 (iii) Use the Software in any way which breaches any applicable local, national or international law  
 (iv) Use the Software for any purpose that considers is a breach of this EULA agreement  
 
@@ -109,10 +109,10 @@ You agree and consent that due to the special nature of online game services, th
 
 You agree that your use of The Game Services shall be at your own risk. FesCoWare provides The Game(s) and/or The Services on an “AS IS” and “AS AVAILABLE” basis. 
 
-FesCoWare HEREBY DISCLAIMS ALL WARRANTIES, CONDITIONS, COMMON LAW DUTIES, AND REPRESENTATIONS, EITHER EXPRESS, IMPLIED, ORAL, OR WRITTEN. FesCoWare makes no warranties about the accuracy or completeness of FesCoWare Services. Also, FesCoWare assumes no liability or responsibility for: 
+FesCoWare HEREBY DISCLAIMS ALL WARRANTIES, CONDITIONS, COMMON LAW DUTIES, AND REPRESENTATIONS, EITHER EXPRESS, IMPLIED, ORAL, OR WRITTEN. FesCoWare makes no warranties about the accuracy or completeness of FesCoWare Services. Also, FesCoWare assumes no liability or responsibility for:  
 (i) any errors, mistakes, or inaccuracies of The Game Services;   
 (ii) personal injury, property damage, lost profits, loss of data, or any indirect, special, incidental, exemplary, consequential, or punitive damages arising from your use of FesCoWare Services;  
-(iii) any interruption, suspension, or termination of FesCoWare Services; 
+(iii) any interruption, suspension, or termination of FesCoWare Services;  
 (iv) any bugs, viruses, or similar links transmitted by third parties on or through FesCoWare Services;  
 (v) any programs intended to damage, detrimentally interfere with, surreptitiously intercept, or expropriate any personal information from you; and/or (vi) any damages arising from or in connection with unexpected circumstances or otherwise beyond our reasonable control.  
 
