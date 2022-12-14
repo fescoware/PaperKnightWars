@@ -19,7 +19,7 @@ Data about your device, such as device name and operating system, browser type a
 Data about your use of the Service, such as gameplay data and your interactions with other players inside the Service
 
 
-######WHY DO WE COLLECT YOUR DATA
+###### WHY DO WE COLLECT YOUR DATA
 
 To make the Service work
 To perform the contract, we process data necessary to:
@@ -28,7 +28,7 @@ Verify and confirm payments
 Respond to your comments and questions and provide player support
 
 
-######SECURITY
+###### SECURITY
 
 I value your trust in providing us your Personal Information, thus we are striving to use commercially acceptable means of protecting it. But remember that no method of transmission over the internet, or method of electronic storage is 100% secure and reliable, and I cannot guarantee its absolute security.
 
