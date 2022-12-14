@@ -1,2 +1,2 @@
 # PaperKnightWars
-Paper Knight Wars game
+Strategy war game for android
