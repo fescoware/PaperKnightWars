@@ -6,12 +6,12 @@
 
 Thank you for playing our games!   
 This Privacy Policy describes:  
-The ways we collect personal data about you and why we do so
-How we use your personal data, and the choices you have about your personal data.
+(i) The ways we collect personal data about you and why we do so  
+(ii) How we use your personal data, and the choices you have about your personal data.
 
-This Privacy Policy applies to FesCoWare's games. We may periodically update this Privacy Policy by posting a new version. 
-If we make any material changes, we will notify you by posting a notice in the Service prior to the change becoming effective. 
-Your continued use of the Service after the effective date will be subject to the new Privacy Policy.
+This Privacy Policy applies to FesCoWare's games. We may periodically update this Privacy Policy by posting a new version.   
+If we make any material changes, we will notify you by posting a notice in the Service prior to the change becoming effective.    
+Your continued use of the Service after the effective date will be subject to the new Privacy Policy.  
 
 
 ###### THE DATA WE COLLECT
