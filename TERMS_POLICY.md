@@ -4,7 +4,8 @@
 
 ## PRIVACY POLICY
 
-Thank you for playing our games! This Privacy Policy describes:
+Thank you for playing our games!   
+This Privacy Policy describes:  
 The ways we collect personal data about you and why we do so
 How we use your personal data, and the choices you have about your personal data.
 
